@@ -4,7 +4,7 @@
   "description": "The jscs preset for nachos projects",
   "main": ".jscs.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/nachos/jscs-nachos/issues"
   },
-  "homepage": "https://github.com/nachos/jscs-nachos"
+  "homepage": "https://github.com/nachos/jscs-nachos",
+  "peerDependencies": {
+    "jscs": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-bump": "^0.3.1",
+    "gulp-mocha": "^2.1.3",
+    "q": "^1.4.1"
+  }
 }
