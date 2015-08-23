@@ -1,0 +1,24 @@
+{
+  "name": "jscs-nachos",
+  "version": "1.0.0",
+  "description": "The jscs preset for nachos projects",
+  "main": ".jscs.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nachos/jscs-nachos.git"
+  },
+  "keywords": [
+    "jscs",
+    "preset",
+    "nachos"
+  ],
+  "author": "Nachos team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nachos/jscs-nachos/issues"
+  },
+  "homepage": "https://github.com/nachos/jscs-nachos"
+}
