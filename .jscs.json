@@ -35,7 +35,8 @@
     "allExcept": [
       "inCallExpressions",
       "inArrayExpressions",
-      "inProperties"
+      "inProperties",
+      "inNewExpressions"
     ]
   },
   "requirePaddingNewLinesAfterUseStrict": true,
