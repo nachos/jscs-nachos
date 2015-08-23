@@ -86,7 +86,6 @@
     "checkRedundantReturns": true,
     "checkRedundantAccess": true,
     "leadingUnderscoreAccess": true,
-    "enforceExistence": true,
     "requireNewlineAfterDescription": true,
     "requireParamDescription": true
   }
