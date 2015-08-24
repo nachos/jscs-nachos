@@ -21,9 +21,6 @@
     "url": "https://github.com/nachos/jscs-nachos/issues"
   },
   "homepage": "https://github.com/nachos/jscs-nachos",
-  "peerDependencies": {
-    "jscs": "^2.1.0"
-  },
   "devDependencies": {
     "chai": "^3.2.0",
     "gulp": "^3.9.0",
