@@ -1,6 +1,6 @@
 {
   "name": "jscs-nachos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The jscs preset for nachos projects",
   "main": ".jscs.json",
   "scripts": {
